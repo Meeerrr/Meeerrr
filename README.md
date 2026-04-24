@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Mer 👋
 
-<!--
-**Meeerrr/Meeerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Multiplatform Application Development (DAM) student based in Catalonia, passionate about building clean, efficient software for desktop and mobile environments.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🔭 I’m currently working on MerStats, a Java application made for generating advanced performance metrics and scouting insights from VEX tournament data.
+* 💼 I’m looking for opportunities for my FCT (Formació en Centres de Treball) or Junior Developer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+**Languages:** Java, C++. Python
+**Tools & Frameworks:** PostrgeSQL, SQLite ,Git, Docker, Supabase, Django.
+
+### 📫 How to Reach Me
+* **Email:** merramirezjou@gmail.com
