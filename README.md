@@ -8,6 +8,7 @@ I am a Multiplatform Application Development (DAM) student based in Catalonia, p
 
 ### 💻 Tech Stack
 **Languages:** Java, C++. Python.
+
 **Tools & Frameworks:** PostrgeSQL, SQLite ,Git, Docker, Supabase, Django.
 
 ### 📫 How to Reach Me
