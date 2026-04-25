@@ -4,12 +4,15 @@ I am a Multiplatform Application Development (DAM) student based in Catalonia, p
 
 ### 🚀 About Me
 * 🔭 I’m currently working on MerStats, a Java application made for generating advanced performance metrics and scouting insights from VEX tournament data.
+* 🌱 I’m currently learning Go and Python.
 * 💼 I’m looking for opportunities for my FCT (Formació en Centres de Treball) or Junior Developer roles.
 
 ### 💻 Tech Stack
-**Languages:** Java, C++. Python.
+**Languages:** Java, C++, Python, SQL (PostrgeSQL, SQLite).
 
-**Tools & Frameworks:** PostrgeSQL, SQLite ,Git, Docker, Supabase, Django.
+**Development** Django, Supabase, REST APIs
+
+**Tools & DevOps:** Git, Docker, Postman, CI/CD.
 
 ### 📫 How to Reach Me
 * **Email:** merramirezjou@gmail.com
