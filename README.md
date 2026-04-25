@@ -7,7 +7,7 @@ I am a Multiplatform Application Development (DAM) student based in Catalonia, p
 * 💼 I’m looking for opportunities for my FCT (Formació en Centres de Treball) or Junior Developer roles.
 
 ### 💻 Tech Stack
-**Languages:** Java, C++. Python
+**Languages:** Java, C++. Python.
 **Tools & Frameworks:** PostrgeSQL, SQLite ,Git, Docker, Supabase, Django.
 
 ### 📫 How to Reach Me
