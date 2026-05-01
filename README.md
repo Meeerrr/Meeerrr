@@ -1,6 +1,6 @@
 # Hi there, I'm Mer 👋
 
-I am a Multiplatform Application Development (DAM) student based in Catalonia, passionate about building clean, efficient software for desktop and mobile environments.
+I am a Multiplatform Application Development (DAM) student based in Catalonia, passionate about building clean, efficient software for desktop environments.
 
 ### 🚀 About Me
 * 🔭 I’m currently working on MerStats, a Java application made for generating advanced performance metrics and scouting insights from VEX tournament data.
